@@ -1,0 +1,332 @@
+﻿[
+  {
+    "id": 1,
+    "Locatie": "Sebastiaan",
+    "whitelisted": true,
+    "skycoinNode": [
+      {
+        "key": "0294e3b585df85c3d8fc1969c36b31f6f5a8cc814d3b53b42d1fdb6374a92e8e6c",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "02b32012e07b6e5a5e854e1a7c79a636b3b4e57a3024863816c3277662e3e3ff2c",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "02e93772e2b6d7320e5ac7d79597f4cdbfcd8c2dbac3af071e673fef6917699b35",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "0340289b88bf427f903749714633cea14577c78bc815aa76c92261a9a394d9a01e",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "03bc28a3d8265169a780864002fc15ec7a679c06b88e67b860b8f9083ef4c48853",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "03d83baa74171af1019f06d0f07bdfbb46b9d80482788e26994510ecd6e2bf5c5d",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "03f363a739cc0ccae2a72a0b78b78cae4badb43ed97d11063c5569cd3853c494ac",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Locatie": "Jean",
+    "whitelisted": "True",
+    "privateKeys": [
+      {
+        "key": "0318cb7eb5c9169e9b9dc1c77fb6ed4c7c0f6281897f03c0c6a8368bff70ef7351",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": false
+      },
+      {
+        "key": "0368348b4941e04d08a3c4d4fa8983cab2c88be8d8efadb7ee9c70e03179520e68",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "038187e6b02afd35b39ffa68c176c792a9c4a3e7f9f439f2d4c740d5eb969d9235",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0246e5a94c9ee5a4e1e2e0260677facda215078168e176287b49f296bc3c9ea179",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "026f15db572e0e2e6915fa421876e11b6d15589884f3bf1125cad4581e089be398",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03e4eae3d4232372d6b8f472e529cc506bf10325204ed5d7a3239430fe72a30471",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Locatie": "Ouders Sebastiaan",
+    "whitelisted": "True",
+    "privateKeys": [
+      {
+        "key": "0294e8e27bec5299cff1f45f5f56cc571024dbf958f46d49a0057aeb3abb2c7b6e",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02707471917ce5224a7ac6b45a081653dd595b50697234db81ddbbb9d4d1dec0c2",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0240f8e2a03b2b418dd343c949db647776b47a7eff572c42c59a7332fecdb68567",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03472f9316aa76c4d9911fd20507ea66deddb33b411e03b03788dbe0cb85db4cf0",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03d0fd7042cec45a0c9338a5b923e85d44f8e4fd0b99408d7b4722665a6071a97f",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02cd36c6d15a40a2898ebc105419b9a1a5f813d18c16d82c06357ebc12b50968d4",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "037c28d88db1873b993c6c9d62b8699f4d173866fb08b32d232fe4f455167f6e62",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Locatie": "Ouders Mauro",
+    "whitelisted": "False",
+    "privateKeys": [
+      {
+        "key": "032a3124ac80cd7b091dc488329eaa67871032247b398b40a5e92e76b8ccaeb2d7",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02ff2d050331c6c0baf6e10dd55e365f0201dc6e3ba514d18bf87d6db504609247",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02f0183c8475aeb89563209fcae789a3a85cab607605111eeab2f942a4580e27a8",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0206ed9488d7b737bba760631f3dae0371ec645a29e30933a82076e94d5df87c94",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03c32bb9050f52e9c79efe77cda32f61238d93636d1bd8c19ee9c894c57ced1ab4",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03eaf138f50f19bcb516d0c6a76501226451917d0608c413ce7f6b47c6068279ca",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "022b7cd724b8858a43b82f168cdded07cda3f5313b6130647d6af313bbf49913c2",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Locatie": "Undefined",
+    "whitelisted": "True",
+    "privateKeys": [
+      {
+        "key": "02f4e27d18595bd37facb06890ce53cd9bd363e68196397d2eb71d9a2f84501a0b",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03f2ee05313d03c946699e42b2f2ec1e5302acab9509ded1823e1052f868e28810",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0210a0730ddf7707c12602ff8fa6a946ee263fd88c4e8c9faa8749e8497649050d",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0368f0e1a0c237ac3b0ed81e077816b54a8f33938d9d5e58bb3e9ac0a32822906a",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0378594b07ed9f4abd06bfe8be338ea7fdacbd64fd2c4e1051c58290728c28520e",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02096c90930f5627fb8366dfbb47146a8c93b6a2e8e98a5facbfbbee0553651107",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "032b10597dcf64d8d1b8593078838dea3ae7cd1fee5e9fbedf23b2f848a0ae0bee",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "Locatie": "Mauro",
+    "whitelisted": "False",
+    "privateKeys": [
+      {
+        "key": "032a3124ac80cd7b091dc488329eaa67871032247b398b40a5e92e76b8ccaeb2d7",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02ff2d050331c6c0baf6e10dd55e365f0201dc6e3ba514d18bf87d6db504609247",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "02f0183c8475aeb89563209fcae789a3a85cab607605111eeab2f942a4580e27a8",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "0206ed9488d7b737bba760631f3dae0371ec645a29e30933a82076e94d5df87c94",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03c32bb9050f52e9c79efe77cda32f61238d93636d1bd8c19ee9c894c57ced1ab4",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "03eaf138f50f19bcb516d0c6a76501226451917d0608c413ce7f6b47c6068279ca",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      },
+      {
+        "key": "022b7cd724b8858a43b82f168cdded07cda3f5313b6130647d6af313bbf49913c2",
+        "uptime": 0,
+        "downtime": 0,
+        "percentage": 0.0,
+        "online": "false"
+      }
+    ]
+  }
+
+]							
